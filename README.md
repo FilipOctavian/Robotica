@@ -12,3 +12,7 @@ Această temă implică simularea unei stații de încărcare pentru vehicule el
 - **8x Rezistoare** – 6x de 220/330 ohmi, 2x de 1K ohmi
 - **Breadboard**
 - **Linii de legătură**
+
+##Video YouTube
+
+https://youtube.com/shorts/euYh1k9wcds
