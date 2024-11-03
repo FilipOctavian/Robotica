@@ -16,3 +16,18 @@ Această temă implică simularea unei stații de încărcare pentru vehicule el
 ##Video YouTube
 
 https://youtube.com/shorts/euYh1k9wcds
+
+
+# Robotica Tema 2
+
+## Descriere
+
+Type Racer testează abilitățile utilizatorilor de a tasta corect și rapid. Jocul include un sistem de selecție a dificultății (ușor, mediu, greu). Utilizatorul trebuie să tasteze cuvinte afișate în monitorul serial, iar scorul este ținut sub control pe parcursul jocului. Apăsarea butonului de start/stop permite începerea sau terminarea jocului, iar utilizatorul poate schimba dificultatea la inceperea jocului.
+
+##Componente
+
+- **1x LED RGB** – pentru a indica starea de liber sau ocupat
+- **2x Butoane** – pentru start încărcare și stop încărcare
+- **5x Rezistoare** – 6x de 220/330 ohmi, 2x de 1K ohmi
+- **Breadboard**
+- **Linii de legătură**
